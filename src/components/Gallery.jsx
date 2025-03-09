@@ -10,7 +10,7 @@ const images = [
   {
     url: '/src/images/MOBILEAPP.jpeg',
     title: 'Mobile App Interface',
-    category: 'Mobile'
+    category: 'Mobiles'
   },
   {
     url: '/src/images/ECOM.jpeg',
