@@ -52,7 +52,8 @@
     width: 100%;
     padding: 2rem;
     background: linear-gradient(to top, rgba(0, 0, 0, 0.7), transparent);
-    color: white;
+    color: black;
+    text-shadow: 1px 1px 0 #ffffff, -1px -1px 0 #fff8f8, 1px -1px 0 #fafafa, -1px 1px 0 #000; 
   }
   
   .slide-content h3 {

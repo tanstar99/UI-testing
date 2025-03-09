@@ -3,22 +3,22 @@ import './Gallery.css';
 
 const images = [
   {
-    url: '/api/placeholder/800/500',
+    url: '/src/images/WEBAPP.jpeg',
     title: 'Dashboard UI Design',
     category: 'Web App'
   },
   {
-    url: '/api/placeholder/800/500',
+    url: '/src/images/MOBILEAPP.jpeg',
     title: 'Mobile App Interface',
     category: 'Mobile'
   },
   {
-    url: '/api/placeholder/800/500',
+    url: '/src/images/ECOM.jpeg',
     title: 'E-commerce Product Page',
     category: 'E-commerce'
   },
   {
-    url: '/api/placeholder/800/500',
+    url: '/src/images/PORTFOLIO.jpeg',
     title: 'Portfolio Layout',
     category: 'Portfolio'
   }
